@@ -1,0 +1,11 @@
+{
+    "entries": [
+        {
+            "name": "streamingassets_manifest",
+            "ext": "json",
+            "path": "streamingassets_manifest.json",
+            "fallbackExt": "",
+            "fallbackPath": ""
+        }
+    ]
+}

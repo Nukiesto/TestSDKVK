@@ -12,32 +12,6 @@
         "backfillId"           : ""
     },
     "payments"      : [
-        {
-            "id" : "sale_item_1",
-            "yandex" : {
-                "id" : "sale_item_1"
-            },
-            "crazy_games" : {
-                "id" : "sale_item_1"
-            },
-            "facebook"    : {
-                "productID" : "sale_item_1"
-            },
-            "msn"         : {
-                "productId" : "sale_item_1"
-            },
-            "playgama"    : {
-                "amount" : 0
-            },
-            "qa_tool"     : {
-                "id" : "sale_item_1",
-                "amount" : 0
-            },
-            "playdeck"    : {
-                "amount" : 0,
-                "description" : "SALE_ITEM_1"
-            }
-        }
     ],
     "leaderboards"  : [
     ],
